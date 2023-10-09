@@ -1,2 +1,1 @@
-# Data-Science
-Projects related to data science
+Customer Segmentation Analysis
